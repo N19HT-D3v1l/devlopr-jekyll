@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
 url: "https://n19ht-d3v1l.github.io/"
-baseurl: "/blog"
+baseurl: "/devlopr-jekyll"
 
 urls:
     - text: About Me
